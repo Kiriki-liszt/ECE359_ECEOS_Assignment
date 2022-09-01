@@ -1,0 +1,1 @@
+cmd_/home/parallels/temp/hw1/simple/simple.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-3.13.0-63-generic/scripts/module-common.lds --build-id  -o /home/parallels/temp/hw1/simple/simple.ko /home/parallels/temp/hw1/simple/simple.o /home/parallels/temp/hw1/simple/simple.mod.o

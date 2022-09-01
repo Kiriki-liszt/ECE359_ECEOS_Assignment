@@ -1,0 +1,1 @@
+cmd_/home/yoon/Documents/ECE-OS/hw1/part1/process.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /home/yoon/Documents/ECE-OS/hw1/part1/process.ko /home/yoon/Documents/ECE-OS/hw1/part1/process.o /home/yoon/Documents/ECE-OS/hw1/part1/process.mod.o ;  true
